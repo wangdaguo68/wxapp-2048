@@ -8,9 +8,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.5.4",
-	"appid": "wx8c14691931baad07",
-	"projectname": "king-2048",
+	"libVersion": "2.0.2",
+	"appid": "wx04274ccfb55e3eff",
+	"projectname": "2048",
 	"condition": {
 		"search": {
 			"current": -1,
@@ -25,7 +25,8 @@
 			"list": []
 		},
 		"game": {
-			"list": []
+			"list": [],
+			"current": -1
 		},
 		"miniprogram": {
 			"current": 0,
